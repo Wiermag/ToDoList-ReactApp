@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "./static/css/main.e24a126d.chunk.css",
+    "main.css": "./static/css/main.45f65e20.chunk.css",
     "main.js": "./static/js/main.a6a8216b.chunk.js",
     "main.js.map": "./static/js/main.a6a8216b.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.5aa82065.js",
@@ -8,16 +8,16 @@
     "static/js/2.6196e04d.chunk.js": "./static/js/2.6196e04d.chunk.js",
     "static/js/2.6196e04d.chunk.js.map": "./static/js/2.6196e04d.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.20bea94cc97575e9d8cc6e5e8cb44376.js": "./precache-manifest.20bea94cc97575e9d8cc6e5e8cb44376.js",
+    "precache-manifest.87b3c72c4cd494f702327b6fef16f8a7.js": "./precache-manifest.87b3c72c4cd494f702327b6fef16f8a7.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/main.e24a126d.chunk.css.map": "./static/css/main.e24a126d.chunk.css.map",
+    "static/css/main.45f65e20.chunk.css.map": "./static/css/main.45f65e20.chunk.css.map",
     "static/js/2.6196e04d.chunk.js.LICENSE.txt": "./static/js/2.6196e04d.chunk.js.LICENSE.txt",
     "static/media/App.css": "./static/media/close-up-of-hand-holding-pencil-over-white-background-316466.eacc8ef1.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.5aa82065.js",
     "static/js/2.6196e04d.chunk.js",
-    "static/css/main.e24a126d.chunk.css",
+    "static/css/main.45f65e20.chunk.css",
     "static/js/main.a6a8216b.chunk.js"
   ]
 }
