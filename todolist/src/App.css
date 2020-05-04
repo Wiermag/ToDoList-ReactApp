@@ -1,7 +1,7 @@
 body {
-    background-image: url("../src/images/close-up-of-hand-holding-pencil-over-white-background-316466.jpg");
-    background-position: center;
-    background-size: cover;
+    background-image: url("./images/kisspng-the-writer-s-journey-mythic-structure-for-writers-hand-writing-png-5ab18bd4700b38.8034967515215851084589.png");
+    background-position: bottom;
+    background-size: contain;
     background-repeat: no-repeat;
 }
 .app {
@@ -30,6 +30,7 @@ body {
 }
 .todo-list {
     text-align: center;
+    border: none;
     border-radius: 4px;
     padding: 5px;
     width: 100%;
@@ -66,6 +67,11 @@ body {
 
  
  @media (min-width: 1000px) {
+    body {
+       background-image: url("../src/images/close-up-of-hand-holding-pencil-over-white-background-316466.jpg");
+       background-position: center;
+       background-size: cover;
+    }
     #root {
         display: flex;
         justify-content:center;
