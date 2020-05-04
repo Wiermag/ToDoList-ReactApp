@@ -4,25 +4,19 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
 }
-#root {
-    display: flex;
-    justify-content:center;
-    align-items: center;
-}
 .app {
-    text-align: center;
-    height: 50vh;
-    width: 50vw;
+    height: 100vh;
+    width: 100vw;
     border-radius: 50px;
-    font-family: 'Ibarra Real Nova', serif;
+    font-family: 'Ibarra Real Nova', serif;  
+    text-align: center;
 }
 .app p {
-    font-size: 3rem;
-    margin: 20px;
+    font-size: 2rem;
 }
 .app input {
     height: 2rem;
-    width: 50%;
+    width: 80%;
     margin: 2rem;
     border: none;
     border-bottom: 1px solid black;
@@ -34,8 +28,6 @@ body {
     color: #c6a49a;
     font-family: 'Ibarra Real Nova', serif;
 }
-  
-
 .todo-list {
     text-align: center;
     border-radius: 4px;
@@ -71,3 +63,23 @@ body {
 .todo button:focus {
     outline-color: #c6a49a;
  }
+
+ 
+ @media (min-width: 1000px) {
+    #root {
+        display: flex;
+        justify-content:center;
+        align-items: center;
+    }
+    .app {
+        height: 50vh;
+        width: 50vw;
+    }
+    .app p {
+        font-size: 3rem;
+        margin: 20px;
+    }
+    .app input {
+        width: 50%; 
+    }
+}    
