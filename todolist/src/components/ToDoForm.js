@@ -12,7 +12,7 @@ const TodoForm = ({ add }) => {
   
     return (
         <>
-      <p>To do list...</p>
+      <p>My list of things to do...</p>
       <form onSubmit={handleSubmit}>
         <input type="text"
                className="input"

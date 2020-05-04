@@ -17,7 +17,8 @@ body {
     font-family: 'Ibarra Real Nova', serif;
 }
 .app p {
-    font-size: 2rem;
+    font-size: 3rem;
+    margin: 20px;
 }
 .app input {
     height: 2rem;
@@ -62,4 +63,11 @@ body {
     border: 1px solid #444f59;
     border-radius: 2px;
     background-color: white;
+    cursor: pointer;
 }
+.todo button:hover {
+    background-color:#c6a49a80;
+}
+.todo button:focus {
+    outline-color: #c6a49a;
+ }

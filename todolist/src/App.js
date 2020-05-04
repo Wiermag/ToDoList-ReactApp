@@ -1,7 +1,6 @@
 import React, { useState } from "react";
 import { TodoList } from "../src/components/ToDoList";
 import { TodoForm } from "../src/components/ToDoForm";
-import SimpleReactCalendar from 'simple-react-calendar'
 import "./App.css";
 
 
