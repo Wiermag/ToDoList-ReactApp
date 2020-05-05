@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "./static/css/main.ec32c6ff.chunk.css",
+    "main.css": "./static/css/main.4edb3043.chunk.css",
     "main.js": "./static/js/main.a6a8216b.chunk.js",
     "main.js.map": "./static/js/main.a6a8216b.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.5aa82065.js",
@@ -8,16 +8,16 @@
     "static/js/2.6196e04d.chunk.js": "./static/js/2.6196e04d.chunk.js",
     "static/js/2.6196e04d.chunk.js.map": "./static/js/2.6196e04d.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.2172f1beaf82eb4d8e845bbefe8fd8e5.js": "./precache-manifest.2172f1beaf82eb4d8e845bbefe8fd8e5.js",
+    "precache-manifest.b43c74821ed767d4b0570b8f20197ff8.js": "./precache-manifest.b43c74821ed767d4b0570b8f20197ff8.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/main.ec32c6ff.chunk.css.map": "./static/css/main.ec32c6ff.chunk.css.map",
+    "static/css/main.4edb3043.chunk.css.map": "./static/css/main.4edb3043.chunk.css.map",
     "static/js/2.6196e04d.chunk.js.LICENSE.txt": "./static/js/2.6196e04d.chunk.js.LICENSE.txt",
     "static/media/App.css": "./static/media/silver-iphone-6-beside-click-pen-and-card-843266.aafbc702.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.5aa82065.js",
     "static/js/2.6196e04d.chunk.js",
-    "static/css/main.ec32c6ff.chunk.css",
+    "static/css/main.4edb3043.chunk.css",
     "static/js/main.a6a8216b.chunk.js"
   ]
 }
